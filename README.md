@@ -1,16 +1,41 @@
-## Hi there 👋
+## 🪩 Hi, I'm Emilija 🪩
 
-<!--
-**ganglem/ganglem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Passionate about Cybersecurity, Software Engineering and Design**
+- **Master's Student in Computer Science @Ulm University**
 
-Here are some ideas to get you started:
+---
+- 📧 emilija1705@gmail.com
+- 🟦 https://www.linkedin.com/in/emilijak/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔮 Technologies 
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=kafka,docker,supabase,next,react"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,ts,tailwind"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=kali,idea,pycharm,ps"/>
+</p>
+
+
+## ✨ Current Projects 
+
+<p>
+ <img src="https://bierturnier.de/icon.png" width="50" align="left" hspace="10">
+ <p>
+   <h3><a href="https://BierTurnier.de">BierTurnier</a></h3>
+   An app for creating and tracking beer pong tournaments with friends.
+ </p>
+</p>
+
+
+## 🎉 Stats
+
+<p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganglem&theme=darcula&hide_border=true" height=150>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganglem&theme=darcula&show_icons=true&hide_border=true&layout=compact" height=150>
+</p>
