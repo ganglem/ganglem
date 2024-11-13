@@ -1,4 +1,4 @@
-## 🪩 Hi, I'm Emilija 🪩
+# 🪩 Hi, I'm Emilija 🪩
 
 - **Passionate about Cybersecurity, Software Engineering and Design**
 - **Master's Student in Computer Science @Ulm University**
