@@ -36,6 +36,6 @@
 ## 🎉 Stats
 
 <p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganglem&theme=darcula&hide_border=true" height=150>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganglem&theme=darcula&show_icons=true&hide_border=true&layout=compact" height=150>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganglem&theme=tokyonight&hide_border=true" height=150>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganglem&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height=150>
 </p>
