@@ -32,7 +32,7 @@
  </p>
 </p>
 
-p>
+<p>
  <img src="https://ganglem.space/star.svg" width="50" align="left" hspace="10">
  <p>
    <h3><a href="https://ganglem.space">GDPR/ROPA Project</a></h3>
