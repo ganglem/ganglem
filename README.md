@@ -32,6 +32,14 @@
  </p>
 </p>
 
+p>
+ <img src="https://ganglem.space/star.svg" width="50" align="left" hspace="10">
+ <p>
+   <h3><a href="https://ganglem.space">GDPR/ROPA Project</a></h3>
+   An app for creating GDPR-compliant ROPA documents.
+ </p>
+</p>
+
 
 ## 🎉 Stats
 
