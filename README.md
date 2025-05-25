@@ -25,20 +25,33 @@
 ## ✨ Current Projects 
 
 <p>
- <img src="https://bierturnier.de/icon.png" width="50" align="left" hspace="10">
+ <img src="https://github.com/ganglem/findme/blob/main/public/icon.svg" width="50" align="left" hspace="10">
  <p>
-   <h3><a href="https://BierTurnier.de">BierTurnier</a></h3>
-   An app for creating and tracking beer pong tournaments with friends.
+   <h3><a href="https://github.com/ganglem/findme">Find.me</a></h3>
+   Modern web application for managing and viewing a festival timetable.
  </p>
 </p>
 
+---
+
 <p>
- <img src="https://ganglem.space/star.svg" width="50" align="left" hspace="10">
+ <img src="https://github.com/ganglem/ROPAgen/blob/dev/public/star.svg" width="50" align="left" hspace="10">
  <p>
-   <h3><a href="https://ganglem.space">GDPR/ROPA Project</a></h3>
-   An app for creating GDPR-compliant ROPA documents.
+   <h3><a href="https://ganglem.space">ROPAgen</a></h3>
+   A web application for creating GDPR-compliant ROPA documents.
  </p>
 </p>
+
+---
+
+<p>
+ <img src="https://bierturnier.de/icon.png" width="50" align="left" hspace="10">
+ <p>
+   <h3><a href="https://BierTurnier.de">BierTurnier</a></h3>
+   A web application for creating and tracking beer pong tournaments with friends.
+ </p>
+</p>
+
 
 
 ## 🎉 Stats
