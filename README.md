@@ -25,7 +25,7 @@
 ## ✨ Current Projects 
 
 <p>
- <img src="https://github.com/ganglem/findme/blob/main/public/icon.svg" width="50" align="left" hspace="10">
+ <img src="https://github.com/ganglem/findme/blob/main/public/images/icon.svg" width="50" align="left" hspace="10">
  <p>
    <h3><a href="https://github.com/ganglem/findme">Find.me</a></h3>
    Modern web application for managing and viewing a festival timetable.
